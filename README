@@ -1,4 +1,6 @@
 My GFS (article as a homework) about the reasons of not-voting
 
 To compile the Markdown to PDF, execute the folliwing command with one of the major latex suites and pandoc installed:
-`pandoc main.md --pdf-engine=xelatex --bibliography=main.bib -C --csl ieee-with-url.csl -s -o main.pdf`
+```
+pandoc main.md --pdf-engine=xelatex --bibliography=main.bib -C --csl ieee-with-url.csl -s -o main.pdf
+```
