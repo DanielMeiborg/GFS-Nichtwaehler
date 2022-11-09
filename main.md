@@ -15,6 +15,7 @@ fontsize: 12pt
 \newpage
 
 # Einleitung
+<!-- TODO: Siehe Buch/206 -->
 
 # Definition Nichtwähler
 > *Nichtwähler sind Wahlberechtigte, die ihr Wahlrecht nicht in Anspruch nehmen,
@@ -22,16 +23,29 @@ fontsize: 12pt
 [@bundeswahlleiter2021nichtwaehler]
 
 # Probleme des Nichtwählens
-<!-- Siehe https://de.wikipedia.org/wiki/Nichtwähler#Krisenthese -->
+<!-- TODO: Siehe https://de.wikipedia.org/wiki/Nichtwähler#Krisenthese -->
+Zunächst einmal scheinen Nichtwähler keinen Effekt auf das Ergebnis einer Wahl
+zu haben, schließlich werden sie ja zu keiner Partei gezählt. Nichtsdestotrotz
+können Nichtwähler die Ergebnisse einer Wahl massiv beeinflussen.
+
+Die Nichtwählerquote in Deutschland lag 2009 bei 29,2%. Das heißt, alleine durch
+Nichtwähler kann eine Partei bis zu 29,2 % der Wählerstimmen verlieren. Das ist
+gerade bei einer knappen Wahl - eine enorme Menge.
+
+Umgekehrt kann eine kleine populistische Partei, die weniger als andere Parteien
+im Vergleich zu den vorherigen Jahren durch Nichtwähler weniger Stimmen verliert
+plötzlich einen deutlich höheren Anteil haben. So könnte eine Partei 2009 schon
+mit 36% der Wahlberechtigten eine absolute Mehrheit haben.
 
 # Wahlbeteiligung in Deutschland
 Wahlbeteiligung in Deutschland seit 1949 [@bundeswahlleiter2021wahlbeteiligung].
-<!-- Erläuterung des Graphen -->
+<!-- TODO: Erläuterung des Graphen -->
 
 ![](images/Statistik-Wahlbeteiligung-Deutschland-seit-1949.png)
 
 # Ursachen des Nichtwählens
 
+<!-- TODO: Überprüfen -->
 ## Normalisierungsthese
 
 ## Krisenthese
@@ -81,7 +95,7 @@ Anderseits können Bürger immer noch einen ungültigen Stimmzettel abgeben. Auc
 eine rein zufällige oder Protestwahl ist möglich. Letztlich ist eine Wahlpflicht
 auch ein Eingriff in den persöhnlichen Freiheitsbereich. Diese Bürger sind dann
 auch anfälliger auf Propaganda, da sie sich normalerweise enthalten würden, nun
-aber zum Wählen gezwungen werden.
+aber zum Wählen gezwungen werden und kaum eine eigene Meinug haben.
 
 # Fazit
 
