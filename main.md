@@ -27,9 +27,10 @@ Zunächst einmal scheinen Nichtwähler keinen Effekt auf das Ergebnis einer Wahl
 zu haben, schließlich werden sie ja zu keiner Partei gezählt. Nichtsdestotrotz
 können Nichtwähler die Ergebnisse einer Wahl massiv beeinflussen.
 
-Die Nichtwählerquote in Deutschland lag 2009 bei 29,2%. Das heißt, alleine durch
-Nichtwähler kann eine Partei bis zu 29,2 % der Wählerstimmen verlieren. Das ist
-gerade bei einer knappen Wahl - eine enorme Menge.
+Die Nichtwählerquote in Deutschland bei der Bundestagswahl lag 2009 bei 29,2%.
+Das heißt, alleine durch Nichtwähler kann eine Partei bis zu 29,2 % der
+Wählerstimmen verlieren. Das ist gerade bei einer knappen Wahl - eine enorme
+Menge.
 
 Umgekehrt kann eine kleine populistische Partei, die weniger als andere Parteien
 im Vergleich zu den vorherigen Jahren durch Nichtwähler weniger Stimmen verliert
@@ -41,10 +42,15 @@ Wahlberechtigte nicht wählen gehen, lässt sich nicht mehr sagen, ob die
 gewählten Parteien tatsächlich die Bevölkerung repräsentieren.
 
 # Wahlbeteiligung in Deutschland
-Wahlbeteiligung in Deutschland seit 1949 [@bundeswahlleiter2021wahlbeteiligung].
-<!-- TODO: Erläuterung des Graphen -->
+Kurz nach dem zweiten Weltkrieg lag die Wahlbeteiligung in Deutschland bei etwa
+78,5%. Das lässt sich auf die erfahrene Unterdrückung während der NS-Zeit
+zurückführen. 1972 lag die Wahlbeteiligung bei 91,1%, dem höchsten Wert bis 2021
+in der Bundesrepublik. Der Tiefpunkt wurde 2009 mit 70,8% erreicht, ein
+Tiefschlag für unsere Demokratie. Seitdem ist sie wieder etwas gestiegen, und
+liegt nun (Bundestagswahl 2021) bei 76,6%.
 
 ![](images/Statistik-Wahlbeteiligung-Deutschland-seit-1949.png)
+Wahlbeteiligung in Deutschland seit 1949 [@bundeswahlleiter2021wahlbeteiligung].
 
 # Ursachen des Nichtwählens
 
@@ -98,8 +104,6 @@ lediglich, dass sie die Möglichkeit haben, an der Wahl teilzunehmen. Allgemeine
 Wahlen werden in der Regel für nationale oder regionale Wahlen verwendet.
 
 ## Einsatz
-<!-- TODO: Spezielle Art der Demokratie, siehe Buch
-https://de.wikipedia.org/wiki/Demokratieindex-->
 Viele Demokratien verzichten auf eine Wahlpflicht. In einigen Ländern steht die
 Wahlverweigerung allerdings unter Strafe, sowohl bei Demokratien, als auch bei
 totalitären Systemen [@wikipedia2022wahlpflicht]:
