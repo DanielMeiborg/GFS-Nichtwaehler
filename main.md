@@ -135,10 +135,17 @@ Anderseits können Bürger immer noch einen ungültigen Stimmzettel abgeben. Auc
 eine rein zufällige oder Protestwahl ist möglich. Letztlich ist eine Wahlpflicht
 auch ein Eingriff in den persöhnlichen Freiheitsbereich. Diese Bürger sind dann
 auch anfälliger auf Propaganda, da sie sich normalerweise enthalten würden, nun
-aber zum Wählen gezwungen werden und kaum eine eigene Meinug haben.
+aber zum Wählen gezwungen werden und kaum eine eigene Meinung haben.
 
 # Fazit
+<!-- TODO: Fazit -->
 
 # Eigenständigkeitserklärung
+Hiermit versichere ich, dass ich diese Arbeit selbstständig angefertigt und
+keine anderen als die angegebenen Quellen und Hilfsmittel verwendet habe. Die
+den benutzten Werken wörtlich oder inhaltlich entnommenen Stellen sind als
+solche gekennzeichnet.
+
+\newpage
 
 # Quellen
