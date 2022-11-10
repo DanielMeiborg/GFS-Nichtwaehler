@@ -23,7 +23,6 @@ fontsize: 12pt
 [@bundeswahlleiter2021nichtwaehler]
 
 # Probleme des Nichtwählens
-<!-- TODO: Siehe https://de.wikipedia.org/wiki/Nichtwähler#Krisenthese -->
 Zunächst einmal scheinen Nichtwähler keinen Effekt auf das Ergebnis einer Wahl
 zu haben, schließlich werden sie ja zu keiner Partei gezählt. Nichtsdestotrotz
 können Nichtwähler die Ergebnisse einer Wahl massiv beeinflussen.
@@ -36,6 +35,10 @@ Umgekehrt kann eine kleine populistische Partei, die weniger als andere Parteien
 im Vergleich zu den vorherigen Jahren durch Nichtwähler weniger Stimmen verliert
 plötzlich einen deutlich höheren Anteil haben. So könnte eine Partei 2009 schon
 mit 36% der Wahlberechtigten eine absolute Mehrheit haben.
+
+Das behindert die Legitimität einer Demokratie natürlich enorm. Wenn viele
+Wahlberechtigte nicht wählen gehen, lässt sich nicht mehr sagen, ob die
+gewählten Parteien tatsächlich die Bevölkerung repräsentieren.
 
 # Wahlbeteiligung in Deutschland
 Wahlbeteiligung in Deutschland seit 1949 [@bundeswahlleiter2021wahlbeteiligung].
