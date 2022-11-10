@@ -45,16 +45,49 @@ Wahlbeteiligung in Deutschland seit 1949 [@bundeswahlleiter2021wahlbeteiligung].
 
 # Ursachen des Nichtwählens
 
-<!-- TODO: Überprüfen -->
 ## Normalisierungsthese
+Eine gängige Theorie zur Erklärung der Verringerung der Wahlbeteiligung ist die
+Normalisierungsthese. Diese nimmt an, dass sich soziale Konflikte mit der Zeit
+verringern und die Wähler so mit der Politik zufrieden sind. Deshalb gibt es
+keinen Anreiz, wählen zu gehen [@bohne2010nichtwaehler].
+
+## Modell des rationalen Wählers
+Dieses Modell besagt, dass Menschen ihre Entscheidungen rational treffen. Das
+heißt, sie treffen Entscheidungen, welche Ihnen die größtmögliche Zufriedenheit
+bringen. Die Wahrscheinlichkeit, dass eine Stimme den Ausgang der Wahl
+beeinflusst, ist sehr gering. Die Wahlbeteiligung wird also geringer, wenn die
+Wähler nicht glauben, dass ihre Wahl etwas bewirken kann.
+
+## Theorie des Demokratiedefizits
+Die Theorie des Demokratiedefizits nimmt an, dass die Wähler nicht an der Politik
+glauben, weil diese zu komplex ist. Sie denken, dass sie keinen wirklichen
+Einfluss auf die Politik haben. Deshalb haben sie nicht den Wunsch, wählen zu
+gehen. Diese Theorie beschreibt, warum die Wahlbeteiligung in Ländern mit
+hoher Wahlbeteiligung höher ist. In Ländern mit hoher Wahlbeteiligung sind
+die Wähler besser informiert und haben so den Eindruck, dass sie etwas
+bewirken können.
+
+## Der soziologische Erklärungsansatz
+Der soziologische Erklärungsansatz beschreibt die Gesellschaft als ein Netzwerk
+von sozialen Beziehungen. Die Beziehungen der Menschen bestimmen, ob sie sich an
+der Politik beteiligen. Menschen, die sich nicht an der Politik beteiligen,
+haben normalerweise keine Beziehungen zu Menschen, die sich an der Politik
+beteiligen. Dies erklärt, warum die Wahlbeteiligung in Ländern mit hoher
+Wahlbeteiligung höher ist. In Ländern mit hoher Wahlbeteiligung ist es eher die
+Norm, sich an der Politik zu beteiligen [@korte2009wahlen].
 
 ## Krisenthese
-<!-- Siehe https://de.wikipedia.org/wiki/Nichtwähler#Krisenthese -->
+Die aber wohl häufigste Erklärung ist die sogenannte Krisenthese. Diese besagt,
+dass die Menschen sich nicht an der Politik beteiligen, weil sie mit der Politik
+unzufrieden sind. Die Enthaltung wird als "Denkzettel" für die Parteien
+verwendet, da man sie so nicht wählen möchte, aber eigentlich auch keine der
+anderen Parteien. Genauso können sich einige Leute mit keiner der bestehenden
+Parteien identifizieren, aber auch keine neue Partei gründen. Die naheliegendste
+Lösung ist die Enthaltung.
 
 # Demographische Analyse von Nichtwählern
 
 # Lösung Wahlpflicht?
-<!-- Siehe https://de.wikipedia.org/wiki/Wahlpflicht -->
 Eine allgemeine Wahlpflicht besagt, dass alle Bürger eines Landes zur Teilnahme
 an einer Wahl verpflichtet sind. Bei einer allgemeinen Wahlpflicht ist es nicht
 erforderlich, dass die Wähler bereit sind, an der Wahl teilzunehmen, sondern
@@ -62,8 +95,8 @@ lediglich, dass sie die Möglichkeit haben, an der Wahl teilzunehmen. Allgemeine
 Wahlen werden in der Regel für nationale oder regionale Wahlen verwendet.
 
 ## Einsatz
-<!-- Spezielle Art der Demokratie, siehe Buch -->
-<!-- https://de.wikipedia.org/wiki/Wahlpflicht#Staaten_mit_Wahlpflicht -->
+<!-- TODO: Spezielle Art der Demokratie, siehe Buch
+https://de.wikipedia.org/wiki/Demokratieindex-->
 Viele Demokratien verzichten auf eine Wahlpflicht. In einigen Ländern steht die
 Wahlverweigerung allerdings unter Strafe, sowohl bei Demokratien, als auch bei
 totalitären Systemen [@wikipedia2022wahlpflicht]:
