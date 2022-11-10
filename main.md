@@ -2,7 +2,7 @@
 title: Was sind die Ursachen des Nichtwählens?
 author: Daniel Meiborg
 date: \today
-bibliography: main.bib
+bibliography: [./main.bib]
 csl: ieee-with-url.csl
 link-citations: true
 documentclass: article
