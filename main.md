@@ -14,16 +14,13 @@ fontsize: 12pt
 \tableofcontents
 \newpage
 
-# Einleitung
-<!-- TODO: Siehe Buch/206 -->
-
 # Definition Nichtwähler
 > *Nichtwähler sind Wahlberechtigte, die ihr Wahlrecht nicht in Anspruch nehmen,
 > indem sie nicht zur Wahl gehen und auch nicht per Briefwahl wählen.*
 [@bundeswahlleiter2021nichtwaehler]
 
 # Wahlbeteiligung in Deutschland
-Kurz nach dem zweiten Weltkrieg lag die Wahlbeteiligung in Deutschland bei etwa
+Kurz nach dem zweiten Weltkrieg lag die Wahlbeteiligung in Deutschland bei etwa^
 78,5%. Das lässt sich auf die erfahrene Unterdrückung während der NS-Zeit
 zurückführen. 1972 lag die Wahlbeteiligung bei 91,1%, dem höchsten Wert bis 2021
 in der Bundesrepublik. Der Tiefpunkt wurde 2009 mit 70,8% erreicht, ein
@@ -34,7 +31,6 @@ liegt nun (Bundestagswahl 2021) bei 76,6%.
 Wahlbeteiligung in Deutschland seit 1949 [@bundeswahlleiter2021wahlbeteiligung].
 
 # Probleme des Nichtwählens
-<!-- TODO: Hochpunkt/Tiefpunkt erklären -->
 Zunächst einmal scheinen Nichtwähler keinen Effekt auf das Ergebnis einer Wahl
 zu haben, schließlich werden sie ja zu keiner Partei gezählt. Nichtsdestotrotz
 können Nichtwähler die Ergebnisse einer Wahl massiv beeinflussen.
@@ -52,6 +48,10 @@ mit 36% der Wahlberechtigten eine absolute Mehrheit haben.
 Das behindert die Legitimität einer Demokratie natürlich enorm. Wenn viele
 Wahlberechtigte nicht wählen gehen, lässt sich nicht mehr sagen, ob die
 gewählten Parteien tatsächlich die Bevölkerung repräsentieren.
+
+Doch wie lässt sich die Menge an Nichtwählern reduzieren? Wie kann man die
+Extrema in den Wahlquoten erklären? Während es darauf keine eindeutige Antwort
+gibt, gibt es zumindest einige Theorien, um das Wahlverhalten zu erklären.
 
 
 # Ursachen des Nichtwählens
@@ -104,9 +104,9 @@ Regel für nationale oder regionale Wahlen verwendet.
 
 
 ## Einsatz
-Viele Demokratien verzichten auf eine Wahlpflicht. In einigen Ländern steht die
-Wahlverweigerung allerdings unter Strafe, sowohl bei Demokratien, als auch bei
-totalitären Systemen [@wikipedia2022wahlpflicht]:
+Viele vollständige Demokratien verzichten auf eine Wahlpflicht. In einigen
+Ländern steht die Wahlverweigerung allerdings unter Strafe, sowohl bei
+Demokratien, als auch bei totalitären Systemen [@wikipedia2022wahlpflicht]:
 
 - Ägypten
 - Australien
@@ -134,24 +134,19 @@ und moralische Pflicht angesehen.
 Anderseits können Bürger immer noch einen ungültigen Stimmzettel abgeben. Auch
 eine rein zufällige oder Protestwahl ist möglich. Letztlich ist eine Wahlpflicht
 auch ein Eingriff in den persöhnlichen Freiheitsbereich. Diese Bürger sind dann
-auch anfälliger auf Propaganda, da sie sich normalerweise enthalten würden, nun
+auch anfälliger für Propaganda, da sie sich normalerweise enthalten würden, nun
 aber zum Wählen gezwungen werden und kaum eine eigene Meinung haben.
 
 ## Fazit
 Eine Wahlpflicht ist nicht die Lösung, um die Demokratie zu verbessern.
 Desinteressierte Bürger sollten zwar zur Wahl gehen, aber sie sollten sich auch
 vorher mit den einzelnen Parteien und ihren Positionen auseinandersetzen. Nur
-so können wirklich informierte Wähler entstehen.
-
-# Fazit
-<!-- TODO: Fazit -->
+so können fundierte Wahlen entstehen, die die Demokratie stärken.
 
 # Eigenständigkeitserklärung
 Hiermit versichere ich, dass ich diese Arbeit selbstständig angefertigt und
 keine anderen als die angegebenen Quellen und Hilfsmittel verwendet habe. Die
 den benutzten Werken wörtlich oder inhaltlich entnommenen Stellen sind als
 solche gekennzeichnet.
-
-\newpage
 
 # Quellen
