@@ -20,7 +20,7 @@ fontsize: 12pt
 [@bundeswahlleiter2021nichtwaehler]
 
 # Wahlbeteiligung in Deutschland
-Kurz nach dem zweiten Weltkrieg lag die Wahlbeteiligung in Deutschland bei etwa^
+Kurz nach dem zweiten Weltkrieg lag die Wahlbeteiligung in Deutschland bei etwa
 78,5%. Das lässt sich auf die erfahrene Unterdrückung während der NS-Zeit
 zurückführen. 1972 lag die Wahlbeteiligung bei 91,1%, dem höchsten Wert bis 2021
 in der Bundesrepublik. Der Tiefpunkt wurde 2009 mit 70,8% erreicht, ein
@@ -54,10 +54,10 @@ Extrema in den Wahlquoten erklären? Während es darauf keine eindeutige Antwort
 gibt, gibt es zumindest einige Theorien, um das Wahlverhalten zu erklären.
 
 
-# Ursachen des Nichtwählens
+# Erklärungsansätze
 
 ## Normalisierungsthese
-Eine gängige Theorie zur Erklärung der Verringerung der Wahlbeteiligung ist die
+Eine mögliche Theorie zur Erklärung der Verringerung der Wahlbeteiligung ist die
 Normalisierungsthese. Diese nimmt an, dass sich soziale Konflikte mit der Zeit
 verringern und die Wähler so mit der Politik zufrieden sind. Deshalb gibt es
 keinen Anreiz, wählen zu gehen [@bohne2010nichtwaehler].
@@ -87,7 +87,7 @@ Wahlbeteiligung höher ist. In Ländern mit hoher Wahlbeteiligung ist es eher di
 Norm, sich an der Politik zu beteiligen [@korte2009wahlen].
 
 ## Krisenthese
-Die aber wohl häufigste Erklärung ist die sogenannte Krisenthese. Diese besagt,
+Die aber wohl gängigste Erklärung ist die sogenannte Krisenthese. Diese besagt,
 dass die Menschen sich nicht an der Politik beteiligen, weil sie mit der Politik
 unzufrieden sind. Die Enthaltung wird als "Denkzettel" für die Parteien
 verwendet, da man sie so nicht wählen möchte, aber eigentlich auch keine der
