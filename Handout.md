@@ -80,7 +80,7 @@ Einsatz in Ägypte, Australien, Liechtenstein, Nordkorea...
 - Unentschlossene Wähler sind anfällig für Propaganda
 
 # Quellen
-Alle Quellen, sowie die Präsentation, dieses Handout und die Ausarbeitung sind auf GitHub verfügbar:
+Alle Quellen, die Präsentation, die Ausarbeitung und das Handout sind auf GitHub verfügbar:
 
 https://github.com/DanielMeiborg/GFS-Nichtwaehler
 
