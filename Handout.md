@@ -3,13 +3,15 @@ title: Ursachen des Nichtwählens
 author: Daniel Meiborg
 documentclass: article
 fontsize: 11pt
-header-includes: \usepackage[a4paper, top=3cm, left=3cm, right=3cm, bottom=3cm]{geometry}
+header-includes: \usepackage[a4paper, top=2.5cm, left=3cm, right=3cm, bottom=2.5cm]{geometry}
 ---
 
 # Definition Nichtwähler
 
 > *Nichtwähler sind Wahlberechtigte, die ihr Wahlrecht nicht in Anspruch nehmen,
 > indem sie nicht zur Wahl gehen und auch nicht per Briefwahl wählen.*
+
+(Bundeswahlleiter, Statistisches Bundesamt)
 
 # Wahlbeteiligung in Deutschland seit 1949
 
@@ -20,7 +22,8 @@ header-includes: \usepackage[a4paper, top=3cm, left=3cm, right=3cm, bottom=3cm]{
 - Bei einer einzelnen Wahl haben Nichtwähler keinen Effekt
 - Wenn aus einer Partei übermäßig viele Nichtwähler werden, verzerrt das die
   Wahl
-- Regierung verliert Legitimität
+
+$\implies$ Regierung verliert Legitimität
 
 # Erklärungsansätze
 
@@ -28,30 +31,36 @@ header-includes: \usepackage[a4paper, top=3cm, left=3cm, right=3cm, bottom=3cm]{
 
 - Soziale Konflikte verringern sich mit der Zeit
 - Wähler sind mit der Politik zufrieden
-  => Es gibt keinen Anreiz, wählen zu gehen
+
+$\implies$ Es gibt keinen Anreiz, wählen zu gehen
 
 ## Modell des rationalen Wählers
 
 - Menschen treffen ihre Entscheidungen rational
 - Einfluss der eigenen Stimme sehr gering
-  => Kosten/Nutzen zu gering
+
+$\implies$ Kosten/Nutzen zu gering
 
 ## Mangel an Bildung
 
 - Politik ist komplex
-  => Mangel an Interesse oder willkürliche Wahl
-  => Anfällig gegenüber populistischen Parteien
+
+$\implies$ Mangel an Interesse oder willkürliche Wahl
+
+$\implies$ Anfällig gegenüber populistischen Parteien
 
 ## Soziologischer Erklärungsansatz
 
 - Wahl wird vom sozialen Umfeld bestimmt
-- Menschen in einem politikfernen Umfeld beteiligen sich häufiger nicht => Die
-  "Nichtwählergemeinschaft" wächst an den Randbereichen
+- Menschen in einem politikfernen Umfeld beteiligen sich häufiger nicht
+
+$\implies$ Die "Nichtwählergemeinschaft" wächst an den Randbereichen
 
 ## Krisenthese
 
 - Menschen sind mit der Politik unzufrieden
-  => Wähler wollen ihren Parteien einen Denkzettel verpassen
+
+$\implies$ Wähler wollen ihren Parteien einen Denkzettel verpassen
 
 # Lösung Wahlpflicht?
 

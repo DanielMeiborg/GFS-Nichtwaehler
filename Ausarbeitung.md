@@ -1,7 +1,7 @@
 ---
 title: Ursachen des Nichtwählens
 author: Daniel Meiborg
-date: \today
+date: November 2022
 bibliography: [./main.bib]
 csl: ieee-with-url.csl
 link-citations: true
@@ -148,5 +148,9 @@ Hiermit versichere ich, dass ich diese Arbeit selbstständig angefertigt und
 keine anderen als die angegebenen Quellen und Hilfsmittel verwendet habe. Die
 den benutzten Werken wörtlich oder inhaltlich entnommenen Stellen sind als
 solche gekennzeichnet.
+
+Unterschrift
+
+Ort, Datum
 
 # Quellen
